@@ -13,18 +13,12 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Coursework2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{437F7FFC-961B-4327-84FF-9CE118A3B85E}|Launcher2\\Launcher2.csproj|f:\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438 \u043E\u0442\u043B\u0430\u0434\u043A\u0430 \u043F\u043E\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\coursework2\\launcher2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{437F7FFC-961B-4327-84FF-9CE118A3B85E}|Launcher2\\Launcher2.csproj|F:\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438 \u043E\u0442\u043B\u0430\u0434\u043A\u0430 \u041F\u041E\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Coursework2\\launcher2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{437F7FFC-961B-4327-84FF-9CE118A3B85E}|Launcher2\\Launcher2.csproj|solutionrelative:launcher2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D9A9578-67CA-48FF-A7D4-F4F41645DE46}|Coursework2.csproj|F:\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438 \u043E\u0442\u043B\u0430\u0434\u043A\u0430 \u041F\u041E\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Coursework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D9A9578-67CA-48FF-A7D4-F4F41645DE46}|Coursework2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D9A9578-67CA-48FF-A7D4-F4F41645DE46}|Coursework2.csproj|f:\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438 \u043E\u0442\u043B\u0430\u0434\u043A\u0430 \u043F\u043E\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\coursework2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B65B2F9-BFD3-4F5D-8335-46E04BF8AFDB}|Agent2\\Agent2.csproj|f:\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438 \u043E\u0442\u043B\u0430\u0434\u043A\u0430 \u043F\u043E\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\coursework2\\agent2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,8 +55,7 @@
               "ToolTip": "F:\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438 \u043E\u0442\u043B\u0430\u0434\u043A\u0430 \u041F\u041E\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Coursework2\\Agent2\\Agent2.csproj",
               "RelativeToolTip": "Agent2\\Agent2.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-19T10:09:01.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T10:09:01.483Z"
             },
             {
               "$type": "Document",
@@ -73,8 +66,7 @@
               "ToolTip": "F:\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438 \u043E\u0442\u043B\u0430\u0434\u043A\u0430 \u041F\u041E\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Coursework2\\Coursework2.csproj",
               "RelativeToolTip": "Coursework2.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-19T10:08:57.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T10:08:57.067Z"
             },
             {
               "$type": "Document",
@@ -99,8 +91,7 @@
               "RelativeToolTip": "Launcher2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T10:05:00.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T10:05:00.104Z"
             },
             {
               "$type": "Document",
