@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coursework2", "Coursework2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launcher2", "Launcher2\Launcher2.csproj", "{437F7FFC-961B-4327-84FF-9CE118A3B85E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agent2", "Agent2\Agent2.csproj", "{3B65B2F9-BFD3-4F5D-8335-46E04BF8AFDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{437F7FFC-961B-4327-84FF-9CE118A3B85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{437F7FFC-961B-4327-84FF-9CE118A3B85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{437F7FFC-961B-4327-84FF-9CE118A3B85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B65B2F9-BFD3-4F5D-8335-46E04BF8AFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B65B2F9-BFD3-4F5D-8335-46E04BF8AFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B65B2F9-BFD3-4F5D-8335-46E04BF8AFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B65B2F9-BFD3-4F5D-8335-46E04BF8AFDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
